@@ -3,7 +3,7 @@
 ---
 
 # How to,
-## use it?
+         ## use it?
 ### Well I would say that its pretty easy to use, you just click the button in the middle or press the SPACEBAR (" ").
 ---
 
