@@ -6,6 +6,8 @@
 ---
 ## I wonder how it looks?
 ![I'll help you stop wondering.. Looks like this ->](https://i.imgur.com/oPurbKA.gif)
-
-
+---
+## Can I see a live example?
+### http://pickmycolor.epizy.com
+---
 ### Welp my friend, this is it, hope you understood things clearly.
