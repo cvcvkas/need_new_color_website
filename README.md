@@ -5,5 +5,7 @@
 ### Well I would say that its pretty easy to use, you just click the button in the middle or press the SPACEBAR (" ").
 ---
 ## I wonder how it looks?
-### Here you go my friend...
 ![I'll help you stop wondering.. Looks like this ->](https://i.imgur.com/oPurbKA.gif)
+
+
+### Welp my friend, this is it, hope you understood things clearly.
